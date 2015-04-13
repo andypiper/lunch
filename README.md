@@ -3,7 +3,7 @@
 Might help you find out what's for lunch at Twitter UK.
 
 ```bash
-$ lunch 0
+$ lunch
 ```
 
 Requires [twurl][twurl] and [json][json]
